@@ -66,6 +66,7 @@ public class Main {
         System.out.println("Precio base: " + String.format("%.2f",preciobase));
         System.out.println("precio con descuento: " + String.format("%.2f",precioconDescuento));
         System.out.println("IVA: " + String.format("%.2f",IVA));
+
         //cerrar el Scanner
         sc.close();
     }
